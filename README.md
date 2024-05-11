@@ -86,7 +86,7 @@ Without the amazing work of the Touhou Wikis, this endeavor wouldn't have been p
   - #### [Fanfiction](#fanfiction)
     - [Scanlation](#scanlation)
     - [Writing](#writing)
-
+    - [Visual-Works](#visual-works)
 ### Official Games
 *Collection of all the games made or licensed by ©上海アリス幻樂団 (Team Shanghai Alice) that counts as an integral part of Touhou's canon (not including Fangames with official licensing).*
 
@@ -413,3 +413,8 @@ Name | Description | Language | Author
 ---- | ----------- | -------- | ------
 [Touhou-Project.com](https://www.touhou-project.com) | We are a community of fans of the Touhou Project series of games and related material. Here you'll find not only discussion about this wonderful setting and its characters but also fanfiction written by talented individuals. | 🇬🇧 | Touhou-Project.com 
 
+### Visual-Works
+*For works that have visual components alongside writing*
+Name | Description | Language | Author 
+---- | ----------- | -------- | ------
+[Osana-Reimu/Reireimu](https://www.nicovideo.jp/user/2589788/mylist/25951858?ref=pc_userpage_mylist) | A derivative work that explores the backstory of the Hakurei's and how Rumia got an amulet stuck to her hair. *Warning* Tear jerker! *This series also involves scenes of depression,* so do be warned beforehand! EN translations are avaliable on [Youtube](https://www.youtube.com/watch?v=30dZx8jmnzE) | 🇬🇧, 🇯🇵 | [ジョイフル](https://twitter.com/joyfulldayo?lang=en)
