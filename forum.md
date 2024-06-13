@@ -1,4 +1,5 @@
-# Awesome Touhou [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+# Touhou Link List
+Also known as: [Awesome Touhou](https://github.com/Raxelgrande/awesome-touhou) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 ![pepi_touhou](https://github.com/Raxelgrande/awesome-touhou/assets/93939943/a8ad9fe7-0eff-44bc-ac5f-3dc0dff58821)
 
 #### Logo Made by [Soph](https://twitter.com/ningyou_saiban)
@@ -10,42 +11,9 @@ Touhou is among the biggest and oldest communities in the internet, spanning mul
 
 Our goal is curating the best of the best The Community has made, with the idea to facilitate discoverability, archival/historical efforts and make community contact between different parts of the fandom easier.
 
-We really value your help, without it, this project would wither away very quickly. Please read the following section if you are interested in helping out.
+We really value your help, without it, this project would wither away very quickly. If you are interested in helping this project or knowing more about it, please check out the list's original form in this [Github Repository](https://github.com/Raxelgrande/awesome-touhou).
 
 New to Touhou? Please read [Getting Started (shoot 'em up focused)](https://en.touhouwiki.net/wiki/Getting_Started), [Fandom](https://en.touhouwiki.net/wiki/Fandom) and [Touhou Reddit's Geting Started](https://www.reddit.com/r/touhou/comments/yt87b4/where_to_get_started_with_touhou_version_51/)
-
-## Contributing, Rules & Legal Information
-If your work is mentioned in this project and you don't want to have it displayed, please contact us.
-
-We follow [The Guidelines for Touhou Project Fan Creations](https://touhou-project.news/guidelines_en/), if you find a violation of this, please let us know and we will take action to remove the content from the list. We also have a few additional rules:
-
-- **Don't Be An Asshole:**
-The media here must be digestible to a wide audience. It has to contain things that are respectful and considerate to other people's circumstances. If necessary, this rule will get expanded, your morality and common sense should be good enough to respect others, don't prove us wrong.
-
-- **No Spam:**
-We value effort and the most widely useful information. Outside certain cases like Wikis or important content, we avoid giving too much attention to a few individuals to give everyone a fair chance. For example, if you are an artist that wants to be here, link your main platform and avoid placing your pieces individually.
-
-Feel welcome to contribute! Please submit a pull request, create an issue or contact me. 
-We ask that in your contributions, specifically pull requests, you edit `README.md`.
-It is also important that in your pull request you follow the correct markdown format. Follow the alphabetical order when adding new things and give some reasoning behind why adding XYZ to the list is a good idea in your issue/pull request.
-
-You can also give ideas for the project and everything that can improve it is welcome. If you don't know how to work with Github's version control and contributing system (Git), see this detailed [Guide](https://docs.github.com/pull-requests) made by Github.
-
-**About forum.md**
-
-**forum.md** is another version of the list, designed to be more compact and ideal to place in forums. To update it, just copy and replace the old version with everything below [Thanks And Contributors](#thanks-and-contributors), as the difference is the introductory text, not the list's content. You can convert the list from Markdown into your desired format using [Pandoc](https://pandoc.org/).
-
- 
-
-## Thanks And Contributors 
-- [Maribel Hearn's Touhou Portal](https://maribelhearn.com/)
-
-I want to specially thank Maribel for creating this amazing resource, it served as inspiration and as a source for several things in this list. 
-
-- [English Touhou Wiki](https://en.touhouwiki.net/wiki/Touhou_Wiki)
-- [TBH Wiki](https://thwiki.cc/%E9%A6%96%E9%A1%B5)
-
-Without the amazing work of the Touhou Wikis, this endeavor wouldn't have been possible. Multiple things from this list come from here.
 
 ## Table of Contents
 - ### [Official Works](#official-works)
@@ -87,10 +55,9 @@ Without the amazing work of the Touhou Wikis, this endeavor wouldn't have been p
     - [Sound](#sound)
   - #### [Information](#information)
     - [Information Websites](#information-websites)
-    - [Podcast](#podcast)
   - #### [Fanfiction](#fanfiction)
     - [Writing](#writing)
-    - [Visual-Works](#visual-works)
+
 ### Official Games
 *Go back to [Official Works](#official-works)*
 
@@ -185,12 +152,9 @@ Name | Description | Language | Author
 
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
-[AKYU'S Illusion Lab. east branch office](https://web.archive.org/web/20080503133642/http://toho.genso.info/) | 2008 link index back when website creation was common. | 🇯🇵 | [About](https://web.archive.org/web/20080517044447/http://toho.genso.info/manual.html)
 [Hata no Kokoro](https://www.youtube.com/@hatanokokoro6376) | Old high quality introductory videos | 🇬🇧 | [Hata no Kokoro](https://www.youtube.com/@hatanokokoro6376)
-[IonicFox](https://www.youtube.com/@IonicFox) | Video travel archive of conventions featuring Touhou. | 🇬🇧 | [IonicFox](https://www.youtube.com/@IonicFox)
 [Maidens of the Kaleidoscope Timeline](https://www.shrinemaiden.org/forum/index.php?topic=8592.0) | It's a long and storied history for a website - a history that ought to be told. | 🇬🇧 | [Credits](https://www.shrinemaiden.com/index.php?action=credits)
 [NitorInc](https://github.com/NitorInc/NitoriWare) | Fan-made, community-driven collaboration to create a collection of microgames based on the Touhou universe and lore. | 🇬🇧 | [Contributors](https://github.com/NitorInc/NitoriWare/graphs/contributors)
-[Walfas](https://walfas.org/) | A Touhou blog from the 2010s that created Flash content. | 🇬🇧 | [KirbyM/@Walfie](https://x.com/walfieee)
 
 ### Ascii
 *Go back to [Arts And Crafts](#arts-and-crafts)*
@@ -229,7 +193,6 @@ Name | Description | Language | Author
 [Spirit-Eye](https://www.youtube.com/@spirit-eye) | Hello, I mainly do videos about Touhou ~~a lot of PC98 content~~ | 🇬🇧 | [@SpiritEye4](https://twitter.com/SpiritEye4)
 [TenkkoEX](https://www.youtube.com/@TenkkoEX) | Heyo I'm Tenkko, a dude who likes Touhou and makes videos about different topics related to the series. Lore, gameplay, fanworks, a little bit of everything. | 🇬🇧 | [TenkkoEX](https://www.youtube.com/@TenkkoEX)
 [Vegemite-Flavored Indomie](https://www.youtube.com/@vegemiteflavoredindomie) | I make MMD videos with varying degrees of quality | 🇮🇩, 🇬🇧 | [@ALLHAILDURIANS](https://twitter.com/ALLHAILDURIANS)
-[WalfasStationWagon](https://www.youtube.com/@WalfasStationWagon/) | Hello! This is the official page of Nitori's Mysterious Station Wagon of Touhou, Fsteaks & Tables (AKA The Walfas Station Wagon)! | 🇬🇧 | [WalfasStationWagon](https://www.deviantart.com/walfasstationwagon)
 [Yumemey](https://www.youtube.com/@Yumemey) | Touhou plushies are pretty cool :) | 🇬🇧 | [@Yumemimeme](https://twitter.com/Yumemimeme)
 [Yuunarii](https://www.youtube.com/@Yuunarii) | Oh yeh, I'm also a huge sucker for Touhou doujin, eurobeat and hyper techno music ♪ ~~she has a sticker shop with Touhou things~~ | 🇬🇧 | [Yuunarii](https://yuunarii.com)
 
@@ -240,13 +203,7 @@ Name | Description | Language | Author
 
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
-[A Coasean Solution to the Scarlet Devil Incident](https://gensokyoinstitute.wordpress.com/2014/10/) | Economic perspective on Remilia's Scarlet Mist Incident | 🇬🇧 | Michelangelo Landgrave
-[Do haniwa dream of ceramic sheep?](https://yamayuandadu.tumblr.com/) | Articles on historical references in Touhou. | 🇬🇧 | [Antonia](https://yamayuandadu.tumblr.com/about)
 [Running PC98 Touhou on PC98](https://blog.soykaf.com/post/running-touhou-games-on-a-pc98-laptop/) | Getting Touhou games to run on a PC-9821 Na12 | 🇬🇧 | [Lainblog](https://blog.soykaf.com/)
-[Patchouli Knowledge laptop sticker](https://www.nayuki.io/page/patchouli-knowledge-laptop-sticker) | Writeup on the process and reasoning to add a Patchouli sticker to their laptop. | 🇬🇧 | [Nayuki](https://www.nayuki.io/page/about)
-[THE MOST CULTURED MEME: NEW TRANSLATION REVEALS HIDDEN DEPTH IN “JAPANESE GOBLIN”](https://lostinlocalization.com/japanese-goblin/) | Analysis on the japanese lyrics to WE ARE JAPANESE GOBLIN | 🇬🇧, 🇯🇵 | [@lostinloc](https://x.com/lostinloc)
-[Touhou Project and the Single-Gender World](https://androgynousanime.blogspot.com/2014/02/touhou-project-and-single-gender-world.html) | Analysis of the thematic impacts of the series' single-gender world | 🇬🇧 | [Androgyny in Animation](https://androgynousanime.blogspot.com/)
-[Where does ZUN draws his fashion sense for some of the designs of the girls?](https://huppaduppa.tumblr.com/post/121357009631/where-does-zun-draws-his-fashion-sense-for-some-of) | Influences on ZUN's fashion designs | 🇬🇧 | [Huppa Inc. ©](https://huppaduppa.tumblr.com/)
 
 ### Chatrooms
 *Go back to [Social](#social)*
@@ -313,9 +270,7 @@ Name | Description | Language | Author
 [Karl Zuñiga](https://www.youtube.com/@KarlZuniga) | I do transcriptions, arrangements, recreations, etc. (Mainly from Touhou) | 🎶, 🇲🇽, 🇬🇧 | [@KarlZuniga22](https://twitter.com/KarlZuniga22)
 [MiragEden](https://www.youtube.com/@Ebansun) | I mainly engage in activities such as Touhou-style original compositions and Touhou arrangements. | 🎶, 🇯🇵 | [MiragEden](https://www.youtube.com/@Ebansun)
 [Paradise of Boundaries](https://twitter.com/POfBoundaries) | Comunidad y Círculo Doujin Hispano de Touhou Project | 🇲🇽 | [Paradise of Boundaries](https://twitter.com/POfBoundaries)
-[Raven’s Jig](https://www.ravensjig.com/) | We specialize in musical arranges which, we hope, would do justice to the original composers we admire and look up to. | 🎶, 🇫🇷, 🇬🇧 | [redtails](https://www.youtube.com/@redtails/)
-[Releska](https://releska.com) | Arranger. Clarinet player. Translator since 2014. | 🎶, 🇬🇧 | [@Releska](https://x.com/Releska)
-[TBH Doujin List](https://thwiki.cc/同人社团列表) | List of Doujin circles/groups, categorized by region, year and type of work | 🇨🇳 | [About Page](https://thwiki.cc/THBWiki:%E5%85%B3%E4%BA%8E), Creative Commons
+[TBH Doujin List](https://thwiki.cc/同人社团列表) | List of Doujin circles/groups, categorized by region, year and type of work | 🇨🇳  | [About Page](https://thwiki.cc/THBWiki:%E5%85%B3%E4%BA%8E), Creative Commons
 [Touhou Wiki's Doujin Circles](https://en.touhouwiki.net/wiki/Doujin_circles) | This is a list of all of the doujin circles on our wiki. | Multilingual | [About Page](https://en.touhouwiki.net/wiki/Touhou_Wiki:About), Creative Commons 
 
 ### Forums
@@ -328,7 +283,6 @@ Name | Description | Language | Author
 ---- | ----------- | -------- | ------
 [Maidens of the Kaleidoscope](https://www.shrinemaiden.com/) | Third incarnation of the MotK Forums | 🇬🇧 | [Credits](https://www.shrinemaiden.com/index.php?action=credits)
 [GensoukyouDE](https://gensoukyou.de) | Jenseits der Hakurei-Barriere | 🇩🇪 | [GensoukyouDE](https://gensoukyou.de)
-[Touhou.fi](https://touhou.fi/) | Finnish. | 🇫🇮 | [Touhou.fi](https://touhou.fi/)
 [Touhou Polish](https://www.touhou.pl) | Human Meets Danmaku | 🇵🇱 | [Touhou Polish](https://www.touhou.pl)
 [Touhou Music Reddit](https://www.reddit.com/r/TOUHOUMUSIC/) | Touhou music is awesome. Share your favorite original or arranged Touhou songs. | 🇬🇧 | [Touhou Music Reddit](https://www.reddit.com/r/TOUHOUMUSIC/)
 [Touhou Reddit](https://www.reddit.com/r/touhou/) | This subreddit is devoted to sharing the wonderful Touhou series with the Reddit community. | 🇬🇧 | [Touhou Reddit](https://www.reddit.com/r/touhou/)
@@ -362,10 +316,9 @@ Name | Description | Language | Author
 ---- | ----------- | -------- | ------
 [uw-u.xyz](https://uw-u.xyz) | Collection of cute software related to Momiji | 🇬🇧 |  AWOO LLC
 [Doremy](https://doremy.ch/) | Doremy | Doremy | Doremy
-[My Touhou Fanpage](http://www.mytouhoupage.net/) | Web page stylized from the 2000s. | 🇬🇧 | [@Hiskov](https://x.com/Hiskov_)
 [touhou98](https://touhou98.touhou.moe/) | The font used in PC98 Touhou games | 🇬🇧 | [touhou98](https://touhou98.touhou.moe/)
 [Touhou Calendar](https://touhoucalendar.github.io) | This page forms a (hopefully) comprehensive list of days in use, presented in English for the Touhou Project's sizable western audience. | 🇬🇧 | [@TouhouCalendar](https://twitter.com/TouhouCalendar)
-[Touhou Omikuji](https://magonhu.github.io/touhou-omikuji-en/) | What Omikuji will you draw? | 🇬🇧, 🇻🇳, 🇨🇳 | [Touhou Omikuji](https://magonhu.github.io/touhou-omikuji-en/)
+[Touhou Omikuji](https://magonhu.github.io/touhou-omikuji-en/) | What Omikuji will you draw? | 🇬🇧, 🇨🇳, 🇨🇳 | [Touhou Omikuji](https://magonhu.github.io/touhou-omikuji-en/)
 [Touhou Character Sorter](https://tohosort.frelia.my) | Sorter for Touhou characters. Pick your sources, and hit the Start button. | 🇬🇧 | [Touhou Character Sorter](https://github.com/execfera/charasort/)
 [Touhou Character Tier List](https://tiermaker.com/create/all-relevant-touhou-characters-t1-t18-books-and-cds-1244738) | This template includes every single Touhou character that is relevant and appears in mainstream Touhou media. | 🇬🇧 | [Touhou Character Tier List](https://tiermaker.com/create/all-relevant-touhou-characters-t1-t18-books-and-cds-1244738)
 [Touhou Song Sorter](https://relick.me/song/) | This is a sorter for ZUN's Touhou (and other) songs. Pick your sources, and hit the Start button. | 🇬🇧 | [Touhou Song Sorter](https://github.com/relick/touhou-song-sorter)
@@ -384,7 +337,6 @@ Name | Description | Language | Author
 [BulletForge](https://www.bulletforge.org/) | Your source of Danmakufu scripts and Danmakufu based fangames | 🇬🇧, games might be multilingual | Aaron and Abner
 [东方栖霞园 ~ Blue devil in the Belvedere](https://store.steampowered.com/app/1365750/__Blue_devil_in_theBelvedere/) | Touhou cast goes to Europe after "devils" invade Gensokyo! Beware of cats! | 🇬🇧, 🇯🇵, 🇨🇳 | [东方祈华梦制作组](https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%A5%88%E5%8D%8E%E6%A2%A6%E5%88%B6%E4%BD%9C%E7%BB%84)
 [東方霊守祀 ~ Consciousness' Unity of Opposites](https://store.steampowered.com/app/1712580/__Consciousness_Unity_of_Opposites/) | *In development game!* Chinese themed Touhou game that is still in development! Has a free demo for those interested in wishlisting this game for when it releases! | 🇬🇧, 🇨🇳 | [只鹳狸药堂](https://thwiki.cc/%E5%8F%AA%E9%B9%B3%E7%8B%B8%E8%8D%AF%E5%A0%82)
-[3rd eye](https://store.steampowered.com/app/1131900/3rd_eye/) | A 2D exploration/horror game starring the Touhou Project's Koishi Komeiji. Use her Third Eye to explore a mental world entirely unlike reality. | 🇬🇧, 🇯🇵, 🇨🇳 | [3rd eye homepage](https://3rdeye.sai-chan.com/en/)
 [Danmaku!!](https://danmaku.party) | A curtain-fire tabletop card game inspired by Touhou ~~im not making a new section for this~~ | 🇬🇧, 🇯🇵 | [@MysteryParfait](https://twitter.com/mysteryparfait)
 [Gensokyo Night Festival](https://store.steampowered.com/app/1122050/Gensokyo_Night_Festival/) | *Heavily in development.* Pixel art game in which you control Suika who fights the denizens of Gensokyo using combinations of moves! | 🇬🇧, 🇯🇵, 🇨🇳 | [WSS Playground](https://whysoserious.jp/en/) [tea_basira](https://twitter.com/tea_basira)
 [Hakurei Touhou Fangames Showcase](https://extra.hakudenkai.games/en/) | Compilation of Touhou fangames | 🇯🇵, 🇬🇧 | hakudenkai@gmail.com
@@ -397,7 +349,6 @@ Name | Description | Language | Author
 [Shining Shooting Star](https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%A4%8F%E5%A4%9C%E7%A5%AD_%EF%BD%9E_Shining_Shooting_Star.) | CN mostly! can also be downloaded for the EN patched game through [TH wiki](https://en.touhouwiki.net/wiki/Shining_Shooting_Star) A wide range of Touhou characters set out to find why meteors have been falling from the sky each night! | 🇨🇳, 🇬🇧* | [雨夜枫雪制作组](https://thwiki.cc/%E9%9B%A8%E5%A4%9C%E6%9E%AB%E9%9B%AA%E5%88%B6%E4%BD%9C%E7%BB%84)
 [Taisei Project](https://taisei-project.org/) | An open source Touhou fangame with an open development team on Github! You can even play it on your browser! | English | [Akari + Contributors](https://github.com/taisei-project/taisei)
 [Touhou Artificial Dream in Arcadia](https://store.steampowered.com/app/2248430/Touhou_Artificial_Dream_in_Arcadia/) | Explore Gensokyo from an outsider's perspective in this old-school Touhou DRPG! | 🇬🇧, 🇯🇵, 🇨🇳 | [Bar Holographic Otaku/Potemki11](https://en.touhouwiki.net/wiki/Potemki11)
-[Touhou Curator](https://store.steampowered.com/curator/34784046-Touhou-Curator/) | “This is Touhou. The one thing you can be 100% sure about games listed here is that they are related to the Touhou series, nothing more, nothing less.” | 🇬🇧 | [Touhou Curator](https://steamcommunity.com/groups/2huvidya)
 [Touhou Danmaku Kagura Phantasia Lost](https://store.steampowered.com/app/2190220/Touhou_Danmaku_Kagura_Phantasia_Lost/) | A rhythm game in which players can play popular arrangements of Touhou Project songs. | 🇬🇧, 🇯🇵, 🇨🇳 | [Alliance Arts](https://alliance-arts.co.jp)
 [Touhou Fractured Transience](https://store.steampowered.com/app/2290860/Touhou_Fractured_Transience/) | *This game is planned for release in 2025* A 2D platform fighting game with pixel graphics! The basic premise deals with boundaries affecting residents with immortality which threatens the balance! The only way to dispel them is to fight unrestrained battles within them! | 🇬🇧, 🇯🇵 | [Tight Stuffs](https://twitter.com/StuffTight?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 [Touhou Fumo Racing](https://honkyhood11.itch.io/touhou-fumo-racing) | Embody a Fumo and compete on a wacky karting race against other fumo-fied Touhou Characters! Play alone against AI-controlled racers or with up to 4 friends on splitscreen multiplayer. | 🇬🇧 | [Touhou Fumo Racing](https://honkyhood11.itch.io/touhou-fumo-racing)
@@ -433,23 +384,10 @@ Name | Description | Language | Author
 [Touhou Garakutasoushi](https://touhougarakuta.com) | Touhou Garatakutasoushi is a media outlet dedicated to everything Touhou Project, a series that is brimming with doujin culture. | [🇯🇵](https://touhougarakuta.com), [🇨🇳](https://cn.touhougarakuta.com), [🇰🇷](https://ko.touhougarakuta.com), [🇬🇧](https://en.touhougarakuta.com) | ©東方我楽多叢誌
 [Touhou Group](https://touhou.group) | List of Touhou groups in the East | 🇨🇳 | [About Page](https://thwiki.cc/THBWiki:%E5%85%B3%E4%BA%8E), Creative Commons
 [Touhou Memories](https://touhou-memories.com) | This website is focused mainly on the games. The pages are not finished yet, bear with me, there's only one person running the website. | 🇬🇧 | [Touhou Memories](https://touhou-memories.com)
-[Touhou Popularity Vote](https://maribelhearn.com/thvote) | An English translation of the full results of the annual THWiki Popularity Poll | 🇬🇧 | maribelhearn@disroot.org 
+[Touhou Popularity Vote](https://maribelhearn.com/thvote) | An English translation of the full results of the annual THWiki Popularity Poll | maribelhearn@disroot.org 
 [Touhou Vote](https://toho-vote.info) | Annual vote for your favorite everything in Touhou Project | 🇯🇵 | [@Prof_Hayaten](https://x.com/Prof_Hayaten) [@yuzuru_cb](https://x.com/yuzuru_cb), [@mktoho12](https://x.com/mktoho12)
 [Touhou Wiki](https://en.touhouwiki.net/wiki/Touhou_Wiki) | This wiki is dedicated to the Touhou Project, a Japanese gaming series that mostly contains curtain fire shoot'em up games made by ZUN. | Multilingual, select yours in the sidebar | [About Page](https://en.touhouwiki.net/wiki/Touhou_Wiki:About), Creative Commons
 [Touhou Wiki Japan](http://thwiki.info) | The Japanese Touhou Wiki made with PukiWuki | 🇯🇵 | [Emuqy](https://twitter.com/mktoho12)
-
-### Podcast
-*Go back to [Information](#information)*
-
-*Long audio recordings on dissussions related to Touhou.*
-
-Name | Description | Language | Author 
----- | ----------- | -------- | ------
-[Hifuu Community Club](https://www.youtube.com/playlist?list=PLnHsfVJM8tGof93Fg67f6jmvd8OKZJpsT) | Podcast that ran from 2022. Interviews community members on their work. | 🇬🇧 | [MegaPig](https://megafrog.carrd.co/)
-[Gensokyo Radio Shows](https://gensokyoradio.net/shows/) | Gensokyo Radio Live is the premiere monthly live broadcast on Gensokyo Radio, covering new music, listener-rated music, and a multitude of topics ranging from Touhou and Japanese culture, to Virtual Reality and Gaming. | 🇬🇧 | [@GensokyoRadio](https://x.com/GensokyoRadio)
-[Outside World Occultism](https://outsideworldoccultism.tumblr.com/about) | Outside World Occultism is a lighthearted podcast about the lore, characters, and assorted media of the Touhou Project. New episodes as our editor has time, please wait warmly! | 🇬🇧 | [Outside World Occultism](https://outsideworldoccultism.tumblr.com/about)
-[Touhou Tuesday](https://kngi.org/category/past-episodes-touhou-tuesday/) | Ran from 2012-2016. Broadcasted Touhou music with occasional interviews with community members. | 🇬🇧 | [KNGI Network](https://kngi.org/contact/)
-[Touhou Radio Next Gen.](https://www.youtube.com/playlist?list=PLwYFBDDkop8szdK1BIwhB0UqPu2qzF0iy) | We are Touhou Radio Next Gen., your weekly Touhou YouTube Podcast! Our topics are: remixes, games, fan works and updates on the community. Every week, we try to invite a new guest, who is doing something Touhou related. | 🇬🇧 | [Touhou Radio Next Gen.](https://www.facebook.com/TouhouRadioNextGen/)
 
 ### Miscellaneous
 *Go back to [Miscellaneous Things](#miscellaneous-things)*
@@ -460,7 +398,7 @@ Name | Description | Language | Author
 
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
-[Touhou lost media](https://moriyashrine.org/forums/topic/2428-touhou-lost-media/) | The goal of this topic is collecting information about lost media and links in one place. There are some categories for systematization. In each category the media goes from more well-known or having more chances to be found to more obscure. If you have some info about this lost media or some other lost media, post it. | 🇬🇧 | [vanyk](https://moriyashrine.org/profile/38795-vanyk/)
+
 
 ### Modding
 *Go back to [Software](#software)*
@@ -512,12 +450,7 @@ Name | Description | Language | Location | Author
 
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
-[Booth](https://booth.pm/en/items?sort=new&tags%5B%5D=%E6%9D%B1%E6%96%B9Project) | Ditgial store with many types of physical/digital goods. Use the search filter to your adventage. | 🇯🇵, 🇬🇧, 🇨🇳, 🇰🇷 | [pixiv](https://x.com/pixiv)
-[Dizzy Lab](https://www.dizzylab.net/) | Online store for independent music. | 🇨🇳 | [DizzyLab](https://weibo.com/dizzylab)
-[Gensokyo.store](https://gensokyo.store/) | Gensokyo.store is an online storefront helping to make self-published, physical fanworks more accessible to more fans in more places. | 🇬🇧 | [Gensokyo Radio](https://gensokyoradio.net/)
-[Touhorology](https://www.touhorology.com) | Based out of Sheboygan, Wisconsin, TouHorology creates physical good Touhou Project fan works. | 🇬🇧 | [Touhorology](https://x.com/TouHorology)
 [Touhou Store of Countless Things](https://shop.hakurei-sukeikai.com/) | Online shop for Touhou Project goods | 🇯🇵 | © 上海アリス幻樂団, ©TABLIER MARKETING inc.
-[Tvorchesky Studios](https://www.adagio.com/signature_blend/group.html?group=4602) | Touhou Tea | 🇬🇧 | [Tvorchesky Studios](https://www.adagio.com/pages/customer_profile.html?userId=406374TS)
 
 ### Sound
 *Go back to [Software](#software)*
@@ -534,12 +467,5 @@ Name | Description | Language | Author
 
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
-[Alice is great!](https://www.alicemargatroid.moe/) | Welcome to this little corner of the internet celebrating Alice Margatroid from Touhou Project! I hope you enjoy Alice as much as I do! | 🇬🇧 |
-[Usually Dead Dot Com](https://www.usuallydead.com/) | Hosts remastered versions of the writer's fanfictions | 🇬🇧 | Tyler Lovell
 [Touhou-Project.com](https://www.touhou-project.com) | We are a community of fans of the Touhou Project series of games and related material. Here you'll find not only discussion about this wonderful setting and its characters but also fanfiction written by talented individuals. | 🇬🇧 | Touhou-Project.com 
 
-### Visual-Works
-*For works that have visual components alongside writing*
-Name | Description | Language | Author 
----- | ----------- | -------- | ------
-[Osana-Reimu/Reireimu](https://www.nicovideo.jp/user/2589788/mylist/25951858?ref=pc_userpage_mylist) | A derivative work that explores the backstory of the Hakurei's and how Rumia got an amulet stuck to her hair. *Warning* Tear jerker! *This series also involves scenes of depression,* so do be warned beforehand! EN translations are avaliable on [Youtube](https://www.youtube.com/watch?v=30dZx8jmnzE) | 🇬🇧, 🇯🇵 | [ジョイフル](https://twitter.com/joyfulldayo?lang=en)
